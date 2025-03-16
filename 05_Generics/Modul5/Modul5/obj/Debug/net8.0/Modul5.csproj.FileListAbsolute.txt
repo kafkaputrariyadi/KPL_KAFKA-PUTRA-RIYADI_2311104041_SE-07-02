@@ -1,0 +1,15 @@
+D:\KPL_KAFKA PUTRA RIYADI_2311104041_SE-07-02\05_Generics\Modul5\bin\Debug\net8.0\Modul5.exe
+D:\KPL_KAFKA PUTRA RIYADI_2311104041_SE-07-02\05_Generics\Modul5\bin\Debug\net8.0\Modul5.deps.json
+D:\KPL_KAFKA PUTRA RIYADI_2311104041_SE-07-02\05_Generics\Modul5\bin\Debug\net8.0\Modul5.runtimeconfig.json
+D:\KPL_KAFKA PUTRA RIYADI_2311104041_SE-07-02\05_Generics\Modul5\bin\Debug\net8.0\Modul5.dll
+D:\KPL_KAFKA PUTRA RIYADI_2311104041_SE-07-02\05_Generics\Modul5\bin\Debug\net8.0\Modul5.pdb
+D:\KPL_KAFKA PUTRA RIYADI_2311104041_SE-07-02\05_Generics\Modul5\obj\Debug\net8.0\Modul5.GeneratedMSBuildEditorConfig.editorconfig
+D:\KPL_KAFKA PUTRA RIYADI_2311104041_SE-07-02\05_Generics\Modul5\obj\Debug\net8.0\Modul5.AssemblyInfoInputs.cache
+D:\KPL_KAFKA PUTRA RIYADI_2311104041_SE-07-02\05_Generics\Modul5\obj\Debug\net8.0\Modul5.AssemblyInfo.cs
+D:\KPL_KAFKA PUTRA RIYADI_2311104041_SE-07-02\05_Generics\Modul5\obj\Debug\net8.0\Modul5.csproj.CoreCompileInputs.cache
+D:\KPL_KAFKA PUTRA RIYADI_2311104041_SE-07-02\05_Generics\Modul5\obj\Debug\net8.0\Modul5.sourcelink.json
+D:\KPL_KAFKA PUTRA RIYADI_2311104041_SE-07-02\05_Generics\Modul5\obj\Debug\net8.0\Modul5.dll
+D:\KPL_KAFKA PUTRA RIYADI_2311104041_SE-07-02\05_Generics\Modul5\obj\Debug\net8.0\refint\Modul5.dll
+D:\KPL_KAFKA PUTRA RIYADI_2311104041_SE-07-02\05_Generics\Modul5\obj\Debug\net8.0\Modul5.pdb
+D:\KPL_KAFKA PUTRA RIYADI_2311104041_SE-07-02\05_Generics\Modul5\obj\Debug\net8.0\Modul5.genruntimeconfig.cache
+D:\KPL_KAFKA PUTRA RIYADI_2311104041_SE-07-02\05_Generics\Modul5\obj\Debug\net8.0\ref\Modul5.dll
