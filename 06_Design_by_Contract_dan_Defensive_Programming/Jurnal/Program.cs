@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using TJ_modul6;
 
 namespace Modul6
@@ -9,7 +9,7 @@ namespace Modul6
         {
             SayaTubeUser user = new SayaTubeUser("Kafka Putra Riyadi");
 
-            for (int i = 1; i <= 1; i++)
+            for (int i = 1; i <= 3; i++)
             {
                 user.AddVideo(new SayaTubeVideo("Tutorial C#"));
             }
