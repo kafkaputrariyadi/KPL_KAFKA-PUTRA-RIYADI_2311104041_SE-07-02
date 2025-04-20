@@ -1,0 +1,15 @@
+D:\KPL_KAFKA PUTRA RIYADI_2311104041_SE-07-02\05_Generics\Guided\bin\Debug\net8.0\Guided.exe
+D:\KPL_KAFKA PUTRA RIYADI_2311104041_SE-07-02\05_Generics\Guided\bin\Debug\net8.0\Guided.deps.json
+D:\KPL_KAFKA PUTRA RIYADI_2311104041_SE-07-02\05_Generics\Guided\bin\Debug\net8.0\Guided.runtimeconfig.json
+D:\KPL_KAFKA PUTRA RIYADI_2311104041_SE-07-02\05_Generics\Guided\bin\Debug\net8.0\Guided.dll
+D:\KPL_KAFKA PUTRA RIYADI_2311104041_SE-07-02\05_Generics\Guided\bin\Debug\net8.0\Guided.pdb
+D:\KPL_KAFKA PUTRA RIYADI_2311104041_SE-07-02\05_Generics\Guided\obj\Debug\net8.0\Guided.GeneratedMSBuildEditorConfig.editorconfig
+D:\KPL_KAFKA PUTRA RIYADI_2311104041_SE-07-02\05_Generics\Guided\obj\Debug\net8.0\Guided.AssemblyInfoInputs.cache
+D:\KPL_KAFKA PUTRA RIYADI_2311104041_SE-07-02\05_Generics\Guided\obj\Debug\net8.0\Guided.AssemblyInfo.cs
+D:\KPL_KAFKA PUTRA RIYADI_2311104041_SE-07-02\05_Generics\Guided\obj\Debug\net8.0\Guided.csproj.CoreCompileInputs.cache
+D:\KPL_KAFKA PUTRA RIYADI_2311104041_SE-07-02\05_Generics\Guided\obj\Debug\net8.0\Guided.sourcelink.json
+D:\KPL_KAFKA PUTRA RIYADI_2311104041_SE-07-02\05_Generics\Guided\obj\Debug\net8.0\Guided.dll
+D:\KPL_KAFKA PUTRA RIYADI_2311104041_SE-07-02\05_Generics\Guided\obj\Debug\net8.0\refint\Guided.dll
+D:\KPL_KAFKA PUTRA RIYADI_2311104041_SE-07-02\05_Generics\Guided\obj\Debug\net8.0\Guided.pdb
+D:\KPL_KAFKA PUTRA RIYADI_2311104041_SE-07-02\05_Generics\Guided\obj\Debug\net8.0\Guided.genruntimeconfig.cache
+D:\KPL_KAFKA PUTRA RIYADI_2311104041_SE-07-02\05_Generics\Guided\obj\Debug\net8.0\ref\Guided.dll

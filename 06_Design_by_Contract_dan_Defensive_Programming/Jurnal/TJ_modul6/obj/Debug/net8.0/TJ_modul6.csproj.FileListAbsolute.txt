@@ -1,0 +1,15 @@
+D:\KPL_KAFKA PUTRA RIYADI_2311104041_SE-07-02\06_Design_by_Contract_dan_Defensive_Programming\Jurnal\TJ_modul6\bin\Debug\net8.0\TJ_modul6.exe
+D:\KPL_KAFKA PUTRA RIYADI_2311104041_SE-07-02\06_Design_by_Contract_dan_Defensive_Programming\Jurnal\TJ_modul6\bin\Debug\net8.0\TJ_modul6.deps.json
+D:\KPL_KAFKA PUTRA RIYADI_2311104041_SE-07-02\06_Design_by_Contract_dan_Defensive_Programming\Jurnal\TJ_modul6\bin\Debug\net8.0\TJ_modul6.runtimeconfig.json
+D:\KPL_KAFKA PUTRA RIYADI_2311104041_SE-07-02\06_Design_by_Contract_dan_Defensive_Programming\Jurnal\TJ_modul6\bin\Debug\net8.0\TJ_modul6.dll
+D:\KPL_KAFKA PUTRA RIYADI_2311104041_SE-07-02\06_Design_by_Contract_dan_Defensive_Programming\Jurnal\TJ_modul6\bin\Debug\net8.0\TJ_modul6.pdb
+D:\KPL_KAFKA PUTRA RIYADI_2311104041_SE-07-02\06_Design_by_Contract_dan_Defensive_Programming\Jurnal\TJ_modul6\obj\Debug\net8.0\TJ_modul6.GeneratedMSBuildEditorConfig.editorconfig
+D:\KPL_KAFKA PUTRA RIYADI_2311104041_SE-07-02\06_Design_by_Contract_dan_Defensive_Programming\Jurnal\TJ_modul6\obj\Debug\net8.0\TJ_modul6.AssemblyInfoInputs.cache
+D:\KPL_KAFKA PUTRA RIYADI_2311104041_SE-07-02\06_Design_by_Contract_dan_Defensive_Programming\Jurnal\TJ_modul6\obj\Debug\net8.0\TJ_modul6.AssemblyInfo.cs
+D:\KPL_KAFKA PUTRA RIYADI_2311104041_SE-07-02\06_Design_by_Contract_dan_Defensive_Programming\Jurnal\TJ_modul6\obj\Debug\net8.0\TJ_modul6.csproj.CoreCompileInputs.cache
+D:\KPL_KAFKA PUTRA RIYADI_2311104041_SE-07-02\06_Design_by_Contract_dan_Defensive_Programming\Jurnal\TJ_modul6\obj\Debug\net8.0\TJ_modul6.sourcelink.json
+D:\KPL_KAFKA PUTRA RIYADI_2311104041_SE-07-02\06_Design_by_Contract_dan_Defensive_Programming\Jurnal\TJ_modul6\obj\Debug\net8.0\TJ_modul6.dll
+D:\KPL_KAFKA PUTRA RIYADI_2311104041_SE-07-02\06_Design_by_Contract_dan_Defensive_Programming\Jurnal\TJ_modul6\obj\Debug\net8.0\refint\TJ_modul6.dll
+D:\KPL_KAFKA PUTRA RIYADI_2311104041_SE-07-02\06_Design_by_Contract_dan_Defensive_Programming\Jurnal\TJ_modul6\obj\Debug\net8.0\TJ_modul6.pdb
+D:\KPL_KAFKA PUTRA RIYADI_2311104041_SE-07-02\06_Design_by_Contract_dan_Defensive_Programming\Jurnal\TJ_modul6\obj\Debug\net8.0\TJ_modul6.genruntimeconfig.cache
+D:\KPL_KAFKA PUTRA RIYADI_2311104041_SE-07-02\06_Design_by_Contract_dan_Defensive_Programming\Jurnal\TJ_modul6\obj\Debug\net8.0\ref\TJ_modul6.dll

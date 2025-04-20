@@ -1,0 +1,39 @@
+{
+  "members": [
+    {
+      "firstName": "Kafka Putra",
+      "lastName": "Riyadi",
+      "gender": "male",
+      "age": 19,
+      "nim": "2311114041"
+    },
+    {
+      "firstName": "Naura Aisha",
+      "lastName": "Zahira",
+      "gender": "female",
+      "age": 19,
+      "nim": "2311104078"
+    },
+    {
+      "firstName": "Faishal Arif",
+      "lastName": "Setiawan",
+      "gender": "male",
+      "age": 18,
+      "nim": "2311104066"
+    },
+    {
+      "firstName": "Ahmad",
+      "lastName": "Al - Farizi",
+      "gender": "male",
+      "age": 20,
+      "nim": "2311104054"
+    },
+    {
+      "firstName": "Ganes Gemi",
+      "lastName": "Putra",
+      "gender": "male",
+      "age": 20,
+      "nim": "2311104075"
+    }
+  ]
+}
