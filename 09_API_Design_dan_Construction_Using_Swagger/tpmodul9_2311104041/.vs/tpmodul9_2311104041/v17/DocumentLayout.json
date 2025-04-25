@@ -7,12 +7,16 @@
       "RelativeMoniker": "D:0:0:{C7423635-49E3-481E-875A-80C03CE1FD18}|tpmodul9_2311104041.csproj|solutionrelative:controllers\\mahasiswacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C7423635-49E3-481E-875A-80C03CE1FD18}|tpmodul9_2311104041.csproj|d:\\kpl_kafka putra riyadi_2311104041_se-07-02\\09_api_design_dan_construction_using_swagger\\tpmodul9_2311104041\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C7423635-49E3-481E-875A-80C03CE1FD18}|tpmodul9_2311104041.csproj|solutionrelative:weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{C7423635-49E3-481E-875A-80C03CE1FD18}|tpmodul9_2311104041.csproj|d:\\kpl_kafka putra riyadi_2311104041_se-07-02\\09_api_design_dan_construction_using_swagger\\tpmodul9_2311104041\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C7423635-49E3-481E-875A-80C03CE1FD18}|tpmodul9_2311104041.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7423635-49E3-481E-875A-80C03CE1FD18}|tpmodul9_2311104041.csproj|d:\\kpl_kafka putra riyadi_2311104041_se-07-02\\09_api_design_dan_construction_using_swagger\\tpmodul9_2311104041\\models\\mahasiswa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7423635-49E3-481E-875A-80C03CE1FD18}|tpmodul9_2311104041.csproj|solutionrelative:models\\mahasiswa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7423635-49E3-481E-875A-80C03CE1FD18}|tpmodul9_2311104041.csproj|d:\\kpl_kafka putra riyadi_2311104041_se-07-02\\09_api_design_dan_construction_using_swagger\\tpmodul9_2311104041\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7423635-49E3-481E-875A-80C03CE1FD18}|tpmodul9_2311104041.csproj|solutionrelative:weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C7423635-49E3-481E-875A-80C03CE1FD18}|tpmodul9_2311104041.csproj|d:\\kpl_kafka putra riyadi_2311104041_se-07-02\\09_api_design_dan_construction_using_swagger\\tpmodul9_2311104041\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -26,11 +30,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
+              "Title": "Mahasiswa.cs",
+              "DocumentMoniker": "D:\\KPL_KAFKA PUTRA RIYADI_2311104041_SE-07-02\\09_API_Design_dan_Construction_Using_Swagger\\tpmodul9_2311104041\\Models\\Mahasiswa.cs",
+              "RelativeDocumentMoniker": "Models\\Mahasiswa.cs",
+              "ToolTip": "D:\\KPL_KAFKA PUTRA RIYADI_2311104041_SE-07-02\\09_API_Design_dan_Construction_Using_Swagger\\tpmodul9_2311104041\\Models\\Mahasiswa.cs",
+              "RelativeToolTip": "Models\\Mahasiswa.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T16:10:18.65Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "WeatherForecast.cs",
               "DocumentMoniker": "D:\\KPL_KAFKA PUTRA RIYADI_2311104041_SE-07-02\\09_API_Design_dan_Construction_Using_Swagger\\tpmodul9_2311104041\\WeatherForecast.cs",
               "RelativeDocumentMoniker": "WeatherForecast.cs",
@@ -38,12 +55,11 @@
               "RelativeToolTip": "WeatherForecast.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-24T15:24:51.671Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-24T15:24:51.671Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\KPL_KAFKA PUTRA RIYADI_2311104041_SE-07-02\\09_API_Design_dan_Construction_Using_Swagger\\tpmodul9_2311104041\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
@@ -56,7 +72,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "WeatherForecastController.cs",
               "DocumentMoniker": "D:\\KPL_KAFKA PUTRA RIYADI_2311104041_SE-07-02\\09_API_Design_dan_Construction_Using_Swagger\\tpmodul9_2311104041\\Controllers\\WeatherForecastController.cs",
               "RelativeDocumentMoniker": "Controllers\\WeatherForecastController.cs",
@@ -64,8 +80,7 @@
               "RelativeToolTip": "Controllers\\WeatherForecastController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-24T15:24:28.727Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-24T15:24:28.727Z"
             },
             {
               "$type": "Document",
@@ -75,7 +90,7 @@
               "RelativeDocumentMoniker": "Controllers\\MahasiswaController.cs",
               "ToolTip": "D:\\KPL_KAFKA PUTRA RIYADI_2311104041_SE-07-02\\09_API_Design_dan_Construction_Using_Swagger\\tpmodul9_2311104041\\Controllers\\MahasiswaController.cs",
               "RelativeToolTip": "Controllers\\MahasiswaController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-24T15:24:25.8Z",
               "EditorCaption": ""
