@@ -1,101 +1,52 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Threading;
 
-namespace RefactoringGuru.DesignPatterns.Observer.Refactored
+class Program
 {
-    public interface IObserver
+    static void Main()
     {
-        void Update(ISubject subject);
-    }
+        var config = CovidConfig.LoadConfig();
 
-    public interface ISubject
-    {
-        void Attach(IObserver observer);
-        void Detach(IObserver observer);
-        void Notify();
-    }
+        Console.WriteLine("==== Aplikasi Pengecekan Kesehatan ====");
+        Console.WriteLine($"Satuan suhu saat ini: {config.SatuanSuhu}");
 
-    public class Subject : ISubject
-    {
-        public int State { get; set; } = 0;
-
-        private readonly List<IObserver> _observers = new();
-
-        public void Attach(IObserver observer)
+        Console.Write($"Berapa suhu badan Anda saat ini? Dalam satuan {config.SatuanSuhu}\n>> ");
+        if (!double.TryParse(Console.ReadLine(), out double suhu))
         {
-            Console.WriteLine("Subject: Attached an observer.");
-            _observers.Add(observer);
+            Console.WriteLine("Input suhu tidak valid.");
+            return;
         }
 
-        public void Detach(IObserver observer)
+        Console.WriteLine();
+
+        Console.Write("Berapa hari yang lalu (perkiraan) Anda terakhir memiliki gejala demam?\n>> ");
+        if (!int.TryParse(Console.ReadLine(), out int hari))
         {
-            _observers.Remove(observer);
-            Console.WriteLine("Subject: Detached an observer.");
+            Console.WriteLine("Input hari tidak valid.");
+            return;
         }
 
-        public void Notify()
+        Console.WriteLine();
+
+        bool suhuNormal = false;
+        if (config.SatuanSuhu.ToLower() == "celcius")
         {
-            Console.WriteLine("Subject: Notifying observers...");
-            foreach (var observer in _observers)
-            {
-                observer.Update(this);
-            }
+            suhuNormal = suhu >= 36.5 && suhu <= 37.5;
+        }
+        else if (config.SatuanSuhu.ToLower() == "fahrenheit")
+        {
+            suhuNormal = suhu >= 97.7 && suhu <= 99.5;
         }
 
-        public void SomeBusinessLogic()
+        bool hariValid = hari < config.BatasHariDemam;
+
+        Console.WriteLine("Hasil:");
+        if (suhuNormal && hariValid)
         {
-            Console.WriteLine("\nSubject: I'm doing something important.");
-            State = new Random().Next(0, 10);
-
-            Thread.Sleep(15);
-
-            Console.WriteLine($"Subject: My state has just changed to: {State}");
-            Notify();
+            Console.WriteLine(config.PesanDiterima);
         }
-    }
-
-    public class ConcreteObserverA : IObserver
-    {
-        public void Update(ISubject subject)
+        else
         {
-            if ((subject as Subject)?.State < 3)
-            {
-                Console.WriteLine("ConcreteObserverA: Reacted to the event.");
-            }
-        }
-    }
-
-    public class ConcreteObserverB : IObserver
-    {
-        public void Update(ISubject subject)
-        {
-            var state = (subject as Subject)?.State;
-            if (state == 0 || state >= 2)
-            {
-                Console.WriteLine("ConcreteObserverB: Reacted to the event.");
-            }
-        }
-    }
-
-    public class Program
-    {
-        public static void Main(string[] args)
-        {
-            var subject = new Subject();
-
-            var observerA = new ConcreteObserverA();
-            subject.Attach(observerA);
-
-            var observerB = new ConcreteObserverB();
-            subject.Attach(observerB);
-
-            subject.SomeBusinessLogic();
-            subject.SomeBusinessLogic();
-
-            subject.Detach(observerB);
-
-            subject.SomeBusinessLogic();
+            Console.WriteLine(config.PesanDitolak);
         }
     }
 }

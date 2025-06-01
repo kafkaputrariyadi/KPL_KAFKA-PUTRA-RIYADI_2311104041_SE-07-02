@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "D:\\KPL_KAFKA PUTRA RIYADI_2311104041_SE-07-02\\14_Clean_Code\\TPModul14_2311104041\\TPModul13_2311104041.csproj": {}
+    "D:\\KPL_KAFKA PUTRA RIYADI_2311104041_SE-07-02\\14_Clean_Code\\TPModul14_2311104041\\TPModul14_2311104041.csproj": {}
   },
   "projects": {
-    "D:\\KPL_KAFKA PUTRA RIYADI_2311104041_SE-07-02\\14_Clean_Code\\TPModul14_2311104041\\TPModul13_2311104041.csproj": {
+    "D:\\KPL_KAFKA PUTRA RIYADI_2311104041_SE-07-02\\14_Clean_Code\\TPModul14_2311104041\\TPModul14_2311104041.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\KPL_KAFKA PUTRA RIYADI_2311104041_SE-07-02\\14_Clean_Code\\TPModul14_2311104041\\TPModul13_2311104041.csproj",
-        "projectName": "TPModul13_2311104041",
-        "projectPath": "D:\\KPL_KAFKA PUTRA RIYADI_2311104041_SE-07-02\\14_Clean_Code\\TPModul14_2311104041\\TPModul13_2311104041.csproj",
+        "projectUniqueName": "D:\\KPL_KAFKA PUTRA RIYADI_2311104041_SE-07-02\\14_Clean_Code\\TPModul14_2311104041\\TPModul14_2311104041.csproj",
+        "projectName": "TPModul14_2311104041",
+        "projectPath": "D:\\KPL_KAFKA PUTRA RIYADI_2311104041_SE-07-02\\14_Clean_Code\\TPModul14_2311104041\\TPModul14_2311104041.csproj",
         "packagesPath": "C:\\Users\\slame\\.nuget\\packages\\",
         "outputPath": "D:\\KPL_KAFKA PUTRA RIYADI_2311104041_SE-07-02\\14_Clean_Code\\TPModul14_2311104041\\obj\\",
         "projectStyle": "PackageReference",
