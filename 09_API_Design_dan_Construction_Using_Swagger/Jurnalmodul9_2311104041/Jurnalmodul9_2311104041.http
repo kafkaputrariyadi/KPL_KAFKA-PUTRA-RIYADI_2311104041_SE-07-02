@@ -1,6 +1,0 @@
-@Jurnalmodul9_2311104041_HostAddress = http://localhost:5041
-
-GET {{Jurnalmodul9_2311104041_HostAddress}}/weatherforecast/
-Accept: application/json
-
-###

@@ -1,6 +1,0 @@
-@Guided_HostAddress = http://localhost:5056
-
-GET {{Guided_HostAddress}}/weatherforecast/
-Accept: application/json
-
-###
