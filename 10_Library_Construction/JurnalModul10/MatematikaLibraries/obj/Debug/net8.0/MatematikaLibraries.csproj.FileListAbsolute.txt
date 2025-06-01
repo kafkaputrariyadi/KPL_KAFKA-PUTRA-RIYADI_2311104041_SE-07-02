@@ -1,0 +1,12 @@
+D:\KPL_KAFKA PUTRA RIYADI_2311104041_SE-07-02\10_Library_Construction\JurnalModul10\MatematikaLibraries\bin\Debug\net8.0\MatematikaLibraries.deps.json
+D:\KPL_KAFKA PUTRA RIYADI_2311104041_SE-07-02\10_Library_Construction\JurnalModul10\MatematikaLibraries\bin\Debug\net8.0\MatematikaLibraries.dll
+D:\KPL_KAFKA PUTRA RIYADI_2311104041_SE-07-02\10_Library_Construction\JurnalModul10\MatematikaLibraries\bin\Debug\net8.0\MatematikaLibraries.pdb
+D:\KPL_KAFKA PUTRA RIYADI_2311104041_SE-07-02\10_Library_Construction\JurnalModul10\MatematikaLibraries\obj\Debug\net8.0\MatematikaLibraries.GeneratedMSBuildEditorConfig.editorconfig
+D:\KPL_KAFKA PUTRA RIYADI_2311104041_SE-07-02\10_Library_Construction\JurnalModul10\MatematikaLibraries\obj\Debug\net8.0\MatematikaLibraries.AssemblyInfoInputs.cache
+D:\KPL_KAFKA PUTRA RIYADI_2311104041_SE-07-02\10_Library_Construction\JurnalModul10\MatematikaLibraries\obj\Debug\net8.0\MatematikaLibraries.AssemblyInfo.cs
+D:\KPL_KAFKA PUTRA RIYADI_2311104041_SE-07-02\10_Library_Construction\JurnalModul10\MatematikaLibraries\obj\Debug\net8.0\MatematikaLibraries.csproj.CoreCompileInputs.cache
+D:\KPL_KAFKA PUTRA RIYADI_2311104041_SE-07-02\10_Library_Construction\JurnalModul10\MatematikaLibraries\obj\Debug\net8.0\MatematikaLibraries.sourcelink.json
+D:\KPL_KAFKA PUTRA RIYADI_2311104041_SE-07-02\10_Library_Construction\JurnalModul10\MatematikaLibraries\obj\Debug\net8.0\MatematikaLibraries.dll
+D:\KPL_KAFKA PUTRA RIYADI_2311104041_SE-07-02\10_Library_Construction\JurnalModul10\MatematikaLibraries\obj\Debug\net8.0\refint\MatematikaLibraries.dll
+D:\KPL_KAFKA PUTRA RIYADI_2311104041_SE-07-02\10_Library_Construction\JurnalModul10\MatematikaLibraries\obj\Debug\net8.0\MatematikaLibraries.pdb
+D:\KPL_KAFKA PUTRA RIYADI_2311104041_SE-07-02\10_Library_Construction\JurnalModul10\MatematikaLibraries\obj\Debug\net8.0\ref\MatematikaLibraries.dll

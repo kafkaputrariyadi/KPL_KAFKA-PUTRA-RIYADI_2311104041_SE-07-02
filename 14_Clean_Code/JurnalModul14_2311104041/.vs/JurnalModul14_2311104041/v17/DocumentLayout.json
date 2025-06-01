@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\KPL_KAFKA PUTRA RIYADI_2311104041_SE-07-02\\14_Clean_Code\\JurnalModul14_2311104041\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{05C9B596-3F56-4F3B-8064-328E85DE979E}|JurnalModul13_2311104041.csproj|d:\\kpl_kafka putra riyadi_2311104041_se-07-02\\14_clean_code\\jurnalmodul14_2311104041\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05C9B596-3F56-4F3B-8064-328E85DE979E}|JurnalModul13_2311104041.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05C9B596-3F56-4F3B-8064-328E85DE979E}|JurnalModul13_2311104041.csproj|d:\\kpl_kafka putra riyadi_2311104041_se-07-02\\14_clean_code\\jurnalmodul14_2311104041\\pusatdatasingleton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05C9B596-3F56-4F3B-8064-328E85DE979E}|JurnalModul13_2311104041.csproj|solutionrelative:pusatdatasingleton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PusatDataSingleton.cs",
+              "DocumentMoniker": "D:\\KPL_KAFKA PUTRA RIYADI_2311104041_SE-07-02\\14_Clean_Code\\JurnalModul14_2311104041\\PusatDataSingleton.cs",
+              "RelativeDocumentMoniker": "PusatDataSingleton.cs",
+              "ToolTip": "D:\\KPL_KAFKA PUTRA RIYADI_2311104041_SE-07-02\\14_Clean_Code\\JurnalModul14_2311104041\\PusatDataSingleton.cs",
+              "RelativeToolTip": "PusatDataSingleton.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T15:27:30.136Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\KPL_KAFKA PUTRA RIYADI_2311104041_SE-07-02\\14_Clean_Code\\JurnalModul14_2311104041\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\KPL_KAFKA PUTRA RIYADI_2311104041_SE-07-02\\14_Clean_Code\\JurnalModul14_2311104041\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T15:26:32.648Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+D:\KPL _ KELOMPOK\tpmodul7_Kelompok_ 8\bin\Debug\net8.0\tpmodul7_Kelompok_ 8.exe
+D:\KPL _ KELOMPOK\tpmodul7_Kelompok_ 8\bin\Debug\net8.0\tpmodul7_Kelompok_ 8.deps.json
+D:\KPL _ KELOMPOK\tpmodul7_Kelompok_ 8\bin\Debug\net8.0\tpmodul7_Kelompok_ 8.runtimeconfig.json
+D:\KPL _ KELOMPOK\tpmodul7_Kelompok_ 8\bin\Debug\net8.0\tpmodul7_Kelompok_ 8.dll
+D:\KPL _ KELOMPOK\tpmodul7_Kelompok_ 8\bin\Debug\net8.0\tpmodul7_Kelompok_ 8.pdb
+D:\KPL _ KELOMPOK\tpmodul7_Kelompok_ 8\obj\Debug\net8.0\tpmodul7_Kelompok_ 8.GeneratedMSBuildEditorConfig.editorconfig
+D:\KPL _ KELOMPOK\tpmodul7_Kelompok_ 8\obj\Debug\net8.0\tpmodul7_Kelompok_ 8.AssemblyInfoInputs.cache
+D:\KPL _ KELOMPOK\tpmodul7_Kelompok_ 8\obj\Debug\net8.0\tpmodul7_Kelompok_ 8.AssemblyInfo.cs
+D:\KPL _ KELOMPOK\tpmodul7_Kelompok_ 8\obj\Debug\net8.0\tpmodul7_Kelompok_ 8.csproj.CoreCompileInputs.cache
+D:\KPL _ KELOMPOK\tpmodul7_Kelompok_ 8\obj\Debug\net8.0\tpmodul7_Kelompok_ 8.dll
+D:\KPL _ KELOMPOK\tpmodul7_Kelompok_ 8\obj\Debug\net8.0\refint\tpmodul7_Kelompok_ 8.dll
+D:\KPL _ KELOMPOK\tpmodul7_Kelompok_ 8\obj\Debug\net8.0\tpmodul7_Kelompok_ 8.pdb
+D:\KPL _ KELOMPOK\tpmodul7_Kelompok_ 8\obj\Debug\net8.0\tpmodul7_Kelompok_ 8.genruntimeconfig.cache
+D:\KPL _ KELOMPOK\tpmodul7_Kelompok_ 8\obj\Debug\net8.0\ref\tpmodul7_Kelompok_ 8.dll
+D:\KPL _ KELOMPOK\tpmodul7_Kelompok_ 8\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\KPL _ KELOMPOK\tpmodul7_Kelompok_ 8\obj\Debug\net8.0\tpmodul7_Kelompok_ 8.csproj.AssemblyReference.cache
+D:\KPL _ KELOMPOK\tpmodul7_Kelompok_ 8\obj\Debug\net8.0\tpmodul7.D43B5964.Up2Date

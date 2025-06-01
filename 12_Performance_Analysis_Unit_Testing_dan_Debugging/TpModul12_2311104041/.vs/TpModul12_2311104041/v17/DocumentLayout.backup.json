@@ -1,0 +1,126 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\KPL_KAFKA PUTRA RIYADI_2311104041_SE-07-02\\12_Performance_Analysis_Unit_Testing_dan_Debugging\\TpModul12_2311104041\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A892098E-9639-4781-B109-F6850810C55D}|TpModul12_2311104041.csproj|D:\\KPL_KAFKA PUTRA RIYADI_2311104041_SE-07-02\\12_Performance_Analysis_Unit_Testing_dan_Debugging\\TpModul12_2311104041\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A892098E-9639-4781-B109-F6850810C55D}|TpModul12_2311104041.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A892098E-9639-4781-B109-F6850810C55D}|TpModul12_2311104041.csproj|D:\\KPL_KAFKA PUTRA RIYADI_2311104041_SE-07-02\\12_Performance_Analysis_Unit_Testing_dan_Debugging\\TpModul12_2311104041\\helper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A892098E-9639-4781-B109-F6850810C55D}|TpModul12_2311104041.csproj|solutionrelative:helper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7026F19-D94C-4BA2-9622-5AC54FB2C45A}|Unittesting\\Unittesting.csproj|d:\\kpl_kafka putra riyadi_2311104041_se-07-02\\12_performance_analysis_unit_testing_dan_debugging\\tpmodul12_2311104041\\unittesting\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7026F19-D94C-4BA2-9622-5AC54FB2C45A}|Unittesting\\Unittesting.csproj|solutionrelative:unittesting\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A892098E-9639-4781-B109-F6850810C55D}|TpModul12_2311104041.csproj|D:\\KPL_KAFKA PUTRA RIYADI_2311104041_SE-07-02\\12_Performance_Analysis_Unit_Testing_dan_Debugging\\TpModul12_2311104041\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A892098E-9639-4781-B109-F6850810C55D}|TpModul12_2311104041.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A892098E-9639-4781-B109-F6850810C55D}|TpModul12_2311104041.csproj|D:\\KPL_KAFKA PUTRA RIYADI_2311104041_SE-07-02\\12_Performance_Analysis_Unit_Testing_dan_Debugging\\TpModul12_2311104041\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A892098E-9639-4781-B109-F6850810C55D}|TpModul12_2311104041.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A892098E-9639-4781-B109-F6850810C55D}|TpModul12_2311104041.csproj|d:\\kpl_kafka putra riyadi_2311104041_se-07-02\\12_performance_analysis_unit_testing_dan_debugging\\tpmodul12_2311104041\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A892098E-9639-4781-B109-F6850810C55D}|TpModul12_2311104041.csproj|solutionrelative:form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\KPL_KAFKA PUTRA RIYADI_2311104041_SE-07-02\\12_Performance_Analysis_Unit_Testing_dan_Debugging\\TpModul12_2311104041\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "D:\\KPL_KAFKA PUTRA RIYADI_2311104041_SE-07-02\\12_Performance_Analysis_Unit_Testing_dan_Debugging\\TpModul12_2311104041\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAwwC8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T08:14:20.1Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Helper.cs",
+              "DocumentMoniker": "D:\\KPL_KAFKA PUTRA RIYADI_2311104041_SE-07-02\\12_Performance_Analysis_Unit_Testing_dan_Debugging\\TpModul12_2311104041\\Helper.cs",
+              "RelativeDocumentMoniker": "Helper.cs",
+              "ToolTip": "D:\\KPL_KAFKA PUTRA RIYADI_2311104041_SE-07-02\\12_Performance_Analysis_Unit_Testing_dan_Debugging\\TpModul12_2311104041\\Helper.cs",
+              "RelativeToolTip": "Helper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T15:59:15.436Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "D:\\KPL_KAFKA PUTRA RIYADI_2311104041_SE-07-02\\12_Performance_Analysis_Unit_Testing_dan_Debugging\\TpModul12_2311104041\\Unittesting\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "Unittesting\\UnitTest1.cs",
+              "ToolTip": "D:\\KPL_KAFKA PUTRA RIYADI_2311104041_SE-07-02\\12_Performance_Analysis_Unit_Testing_dan_Debugging\\TpModul12_2311104041\\Unittesting\\UnitTest1.cs",
+              "RelativeToolTip": "Unittesting\\UnitTest1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T15:54:49.248Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\KPL_KAFKA PUTRA RIYADI_2311104041_SE-07-02\\12_Performance_Analysis_Unit_Testing_dan_Debugging\\TpModul12_2311104041\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "D:\\KPL_KAFKA PUTRA RIYADI_2311104041_SE-07-02\\12_Performance_Analysis_Unit_Testing_dan_Debugging\\TpModul12_2311104041\\Form1.cs [Design]",
+              "RelativeToolTip": "Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T15:15:24.674Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\KPL_KAFKA PUTRA RIYADI_2311104041_SE-07-02\\12_Performance_Analysis_Unit_Testing_dan_Debugging\\TpModul12_2311104041\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\KPL_KAFKA PUTRA RIYADI_2311104041_SE-07-02\\12_Performance_Analysis_Unit_Testing_dan_Debugging\\TpModul12_2311104041\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T08:04:58.275Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "D:\\KPL_KAFKA PUTRA RIYADI_2311104041_SE-07-02\\12_Performance_Analysis_Unit_Testing_dan_Debugging\\TpModul12_2311104041\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "Form1.Designer.cs",
+              "ToolTip": "D:\\KPL_KAFKA PUTRA RIYADI_2311104041_SE-07-02\\12_Performance_Analysis_Unit_Testing_dan_Debugging\\TpModul12_2311104041\\Form1.Designer.cs",
+              "RelativeToolTip": "Form1.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T11:41:22.037Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
